@@ -1,0 +1,23 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-30T12:56:31.277586765+02:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: byte-tools
+  version: 0.3.1
+  revision: 5276f2015b69fa05b939a237b9ca31788e16d423
+  digest: NPfkbmXx5MEZNyd7Q3jZTRyKoNpUw-_EwgytRJSAUgQ
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |
+  
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+g3Ks8Kj2hooDmMonaIWSbJspMjeNrxSvWDDObpz2L7kkxqhmeRobUsMoREX_UfDXWVLUkMWEST0Y34_Q7hxcCA
+-----END CREV PACKAGE REVIEW-----
+
