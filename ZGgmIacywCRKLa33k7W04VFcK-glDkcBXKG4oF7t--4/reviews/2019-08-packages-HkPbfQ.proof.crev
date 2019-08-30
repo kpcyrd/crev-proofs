@@ -21,3 +21,25 @@ comment: |
 g3Ks8Kj2hooDmMonaIWSbJspMjeNrxSvWDDObpz2L7kkxqhmeRobUsMoREX_UfDXWVLUkMWEST0Y34_Q7hxcCA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-30T13:07:47.352448957+02:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pledge
+  version: 0.3.1
+  digest: HnBp90LnVB8SG8Lz7kamR0fil39HRXJze_b9OXMD4aM
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |
+  
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+bi3QFPLG5t1_4pmv5lIH6Qmb8udWPmXe4x9h9laHzWtu5BImUmvdQc8TN9l0PIe4U1SPNAIXyq8zUrjpp4xaDA
+-----END CREV PACKAGE REVIEW-----
+
