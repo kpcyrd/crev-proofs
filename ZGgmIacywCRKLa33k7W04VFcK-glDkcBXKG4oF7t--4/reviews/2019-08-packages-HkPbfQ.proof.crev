@@ -88,3 +88,26 @@ comment: |
 TNaB2ufNIZlB3k7eZnMGirtx3KLCQ-EoIN5QwUxs791JdwXrU_1wDY283GH-tC3KWiG_srJOebrcLj0gs8JHDw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-30T13:47:22.533964212+02:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: reduce
+  version: 0.1.2
+  revision: d578dd6f5310bcd5e9ff6c58a8c1dad6ee1061ce
+  digest: Z2NMjhPzmNbBj7KxoAhC2MC_on_htNJ6MW6UtLTIcrU
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |
+  
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+d6Nsp4aSCpJnARWeLg-ZaFicZxMrAu34u0ykw3_ISN2PRHlZqfG9jWEHezWrlvncxQ42Sb3CSPkJ66-WZ-BhCQ
+-----END CREV PACKAGE REVIEW-----
+
