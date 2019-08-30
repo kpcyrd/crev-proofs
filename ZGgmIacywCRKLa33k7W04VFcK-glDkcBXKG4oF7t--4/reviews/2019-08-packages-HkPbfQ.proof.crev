@@ -65,3 +65,26 @@ comment: |
 jQMXTH0dlF4H1c6Vg_HzgYmzrSZOqrz6_XRA19Xmn4U1oPyt1HKE-R-2eyCXOchDzvyXTej1uWQnlHTcfV1qAw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-08-30T13:42:51.812486744+02:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: dirs-sys
+  version: 0.3.4
+  revision: c3e8767a38bb542dea712c85307b6834273f2de2
+  digest: qOBrFCB68TQ-HLSk1iAQygWeE1JWozEGZSSRE78poic
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |
+  
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+TNaB2ufNIZlB3k7eZnMGirtx3KLCQ-EoIN5QwUxs791JdwXrU_1wDY283GH-tC3KWiG_srJOebrcLj0gs8JHDw
+-----END CREV PACKAGE REVIEW-----
+
