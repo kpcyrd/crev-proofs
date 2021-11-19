@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-19T21:58:33.093720824+01:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: base64
+  version: 0.13.0
+  revision: b4fc91325ec985e2a18e83e95a3c08eebd636af4
+  digest: mwBBGOwWSy9EJsakiMhJrZKiInGOOGrdlkFzD6s5_Lk
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+KcatsWVK37vHQA6F-gK0pv0s9EI6UMIRCnq2zY6xo-oEvmLSPQ6Vd1zS99VLTCoa4fCAtKyE9TaDfwxYJ5mlBQ
+----- END CREV PROOF -----
+
