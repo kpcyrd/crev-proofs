@@ -42,3 +42,25 @@ review:
 LJE59B3INgNQ4_Y8auGlCCU0lWYpvDqDjSH7HTOGQcb0nqmWGAT6QEQwR3RSOETq1Q5_mZLvz62HtEEQpe9UCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-19T22:08:10.869160917+01:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: futures-sink
+  version: 0.3.17
+  revision: 7caefa51304e78fd5018cd5d2a03f3b9089cc010
+  digest: 4FvvPPZSlF6T-58-yARpFE8bOCn6DctJBB64NQW75S8
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+AwOYXE-geR29zqVjc_fit3B7ztVACP1AzrYfegK7-iNee8GK8ie-aGQWw6zcBnMQNEcbMIuUxwYKKvudYGlqBw
+----- END CREV PROOF -----
+
