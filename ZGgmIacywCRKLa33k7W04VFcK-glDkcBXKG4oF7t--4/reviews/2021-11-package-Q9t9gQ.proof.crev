@@ -64,3 +64,25 @@ review:
 AwOYXE-geR29zqVjc_fit3B7ztVACP1AzrYfegK7-iNee8GK8ie-aGQWw6zcBnMQNEcbMIuUxwYKKvudYGlqBw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-11-19T22:11:47.645361164+01:00"
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: "https://github.com/kpcyrd/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: structopt
+  version: 0.3.23
+  revision: 88e5402df017c052f1524f293b2e13bd01810819
+  digest: A1AlJCDeyAsXXcNcZGQWBn0Mt35cFaVif68ibsjr1i4
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+_xVBxbFkejdKOYTZQmSWqPjlLWuWOXiH0x7mHWET6LsRBWwfS2AqgVo-G2vnlsLDILC6ZZk4uObU2D87iS-FCA
+----- END CREV PROOF -----
+
