@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-01-02T07:50:38.320482275+01:00
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: https://github.com/kpcyrd/crev-proofs
+package:
+  source: https://crates.io
+  name: battery
+  version: 0.7.8
+  revision: 20233871e16b0e7083281df560875110a0cac93b
+  digest: XJPyjof9Wx6radiOzwz6XGAuB1EdZqZmL2w7wjFedEA
+flags:
+  unmaintained: true
+alternatives:
+- source: https://crates.io
+  name: starship-battery
+comment: |-
+  See discussion at https://github.com/svartalf/rust-battery/pull/92
+----- SIGN CREV PROOF -----
+iN7FWbBiABnNlzvD7Y844CGxIci_ZhcTCVC2CtOlfAXS2OVA-Q8AZiW5xJhnFVY_GWmECppgbvKvl37t-Li5AA
+----- END CREV PROOF -----
+
