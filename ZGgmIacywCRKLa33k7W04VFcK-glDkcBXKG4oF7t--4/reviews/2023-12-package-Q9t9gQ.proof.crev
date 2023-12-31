@@ -22,3 +22,25 @@ comment: |-
 W0gUq4CsG0Xj5AecWJhWI3k5wNPEh94VWRq6xltNMk8rJfXJtDAf4_wIxJj2woN4Jq41drx21ncGya-e6hqtDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-31T22:13:09.097310973+01:00
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: https://github.com/kpcyrd/crev-proofs
+package:
+  source: https://crates.io
+  name: dirs
+  version: 5.0.1
+  revision: 1c2e3efad531aa67a5656eaedf53fdb8fa9094f7
+  digest: r6XO_0tmrimfV9pyG2UcCoZa3WYHkh2UxX__uBtrGyg
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+j3pPnE3HIMJ3GKSvjlQc6PfmjMUWIIMBfOCeOgw6nzP4YLAn9zWPZSPNa1u8zVrm8hfEzj0LKci1bK7LxHTQCw
+----- END CREV PROOF -----
+
