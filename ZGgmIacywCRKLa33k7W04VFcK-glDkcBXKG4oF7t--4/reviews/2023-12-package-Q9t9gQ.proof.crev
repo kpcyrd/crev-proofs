@@ -44,3 +44,25 @@ review:
 j3pPnE3HIMJ3GKSvjlQc6PfmjMUWIIMBfOCeOgw6nzP4YLAn9zWPZSPNa1u8zVrm8hfEzj0LKci1bK7LxHTQCw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-31T22:31:42.851478587+01:00
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: https://github.com/kpcyrd/crev-proofs
+package:
+  source: https://crates.io
+  name: openssl-probe
+  version: 0.1.5
+  revision: db67c9e5b333b1b4164467b17f5d99207fad004c
+  digest: tIoCjhfxGPPFlPjEcBwd0EDxH26Dkf6ypFwGFXxetGw
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+----- SIGN CREV PROOF -----
+D3yiK4fmTNfY65NOnpPoub8ssTkyY2a7fX-6Ysdyi9i3OkQqXziSjotLcUGGD_3C-ORKAI9NkuLh7x1s35DmBQ
+----- END CREV PROOF -----
+
