@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-12-31T22:02:20.814684521+01:00
+from:
+  id-type: crev
+  id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+  url: https://github.com/kpcyrd/crev-proofs
+package:
+  source: https://crates.io
+  name: stalkerware-indicators
+  version: 0.2.0
+  revision: ff64788cafea79531e563decee34185f670dfdfa
+  digest: iTlg7wyT1nNz-3A2NJZhvuY16ZMoV5J2fwEEKz0cRt0
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: |-
+  I'm also the author of this crate.
+----- SIGN CREV PROOF -----
+W0gUq4CsG0Xj5AecWJhWI3k5wNPEh94VWRq6xltNMk8rJfXJtDAf4_wIxJj2woN4Jq41drx21ncGya-e6hqtDg
+----- END CREV PROOF -----
+
